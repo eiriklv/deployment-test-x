@@ -1,0 +1,14 @@
+{
+  "main.css": "/deployment-test-x/static/css/main.d7e20039.chunk.css",
+  "main.js": "/deployment-test-x/static/js/main.d2750f87.chunk.js",
+  "main.js.map": "/deployment-test-x/static/js/main.d2750f87.chunk.js.map",
+  "runtime~main.js": "/deployment-test-x/static/js/runtime~main.1bd33bf0.js",
+  "runtime~main.js.map": "/deployment-test-x/static/js/runtime~main.1bd33bf0.js.map",
+  "static/js/2.b934461c.chunk.js": "/deployment-test-x/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/deployment-test-x/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/deployment-test-x/index.html",
+  "precache-manifest.25cb84759493c78f8f7ed0c9fe4f0f8b.js": "/deployment-test-x/precache-manifest.25cb84759493c78f8f7ed0c9fe4f0f8b.js",
+  "service-worker.js": "/deployment-test-x/service-worker.js",
+  "static/css/main.d7e20039.chunk.css.map": "/deployment-test-x/static/css/main.d7e20039.chunk.css.map",
+  "static/media/logo.svg": "/deployment-test-x/static/media/logo.5d5d9eef.svg"
+}
